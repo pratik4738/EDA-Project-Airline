@@ -12,27 +12,9 @@ Our company operates a diverse fleet of aircraft ranging from small business jet
 However, due to factors such as **stricter environmental regulations, rising fuel prices, higher taxes, and increased labor costs**, profitability is under pressure.  
 
 The objective of this project is to perform an in-depth **data curation and predictive analytics study** on the company’s databases to identify patterns and **increase occupancy rates**, optimize revenues, and improve flight operational efficiency.
----
-## 🟦 Step 1: Understand Business Context
-
-**Business Goal:**  
-Improve flight profitability by analyzing factors affecting delays, no-shows, and revenue.
-
-**KPIs:**
-- Delay Rate = (Delayed Flights / Total Flights) × 100
-- Occupancy Rate = (Seats Booked / Total Seats Available) × 100
-- Average Revenue per Flight = Total Fare / Total Flights
-
-**Stakeholders:**
-- Revenue Team → maximize revenue per flight
-- Operations Team → reduce delays
-- Customer Experience Team → lower no-shows
-- Data Science Team → create predictive models
-
-**Analytical Focus:**
-Predictive modeling + data wrangling for clean, unified analytics-ready datasets.
 
 ---
+
 
 ## 🎯 Project Objectives
 
@@ -80,10 +62,30 @@ Predictive modeling + data wrangling for clean, unified analytics-ready datasets
 
 ## 🔧 Step-by-Step Workflow
 
+
 ### 🟦 1. Understand Business Context
 - Predict factors influencing **flight delays, no-shows, and revenue**.  
 - Define KPIs: *Delay Rate, Occupancy Rate, Average Revenue per Flight*.  
 - Align project goals with **revenue optimization and customer behavior analysis**.
+
+
+**Business Goal:**  
+Improve flight profitability by analyzing factors affecting delays, no-shows, and revenue.
+
+**KPIs:**
+- Delay Rate = (Delayed Flights / Total Flights) × 100
+- Occupancy Rate = (Seats Booked / Total Seats Available) × 100
+- Average Revenue per Flight = Total Fare / Total Flights
+
+**Stakeholders:**
+- Revenue Team → maximize revenue per flight
+- Operations Team → reduce delays
+- Customer Experience Team → lower no-shows
+- Data Science Team → create predictive models
+
+**Analytical Focus:**
+Predictive modeling + data wrangling for clean, unified analytics-ready datasets.
+
 
 ---
 
@@ -91,7 +93,7 @@ Predictive modeling + data wrangling for clean, unified analytics-ready datasets
 - Datasets: `passengers`, `bookings`, `flights`, `aircraft`, `routes`, `employees`  
 - Tools: `pandas.read_excel()`, `SQL import`  
 - Record metadata: sheet names, row counts, timestamp ranges  
-
+  Done --
 ---
 
 ### 🟩 3. Data Profiling
