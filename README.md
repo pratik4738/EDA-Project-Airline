@@ -223,11 +223,6 @@ Predictive modeling + data wrangling for clean, unified analytics-ready datasets
 
 ---
 
-## 🧠 Author
-**[Your Name]**  
-*Data Analyst | Aviation Analytics Enthusiast*  
-📧 youremail@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com)
-
+By pratik Patil and its team 
 ---
 
