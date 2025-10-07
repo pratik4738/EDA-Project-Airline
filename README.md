@@ -1,5 +1,7 @@
 # 🛫 Airlines Management – Data Curation, Wrangling, Cleansing & Predictive Analytics
 
+<img width="2560" height="1707" alt="image" src="https://github.com/user-attachments/assets/7711726c-661a-43e0-99f8-b8446619b2dd" />
+
 ### 🧩 Domain: Aviation / Transportation Analytics  
 ### 📈 Difficulty: Very High  
 ### 🎯 Use Case: Clean and unify passenger, booking, and flight data for predictive modeling and operational insights.
